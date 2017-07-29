@@ -1,0 +1,8 @@
+<section>
+<h2>Fix a bug</h2>
+<ol><li>Understand bug report</li><li>Write code</li><li>Test</li></ol>
+</section>
+<section>
+<h2>WIP: QA</h2>
+<ol><li>Verify fix in beta cluster</li><li>Resolve bug?</li><li>Something more?</li></ol>
+</section>
